@@ -151,6 +151,9 @@ function App() {
             <div>Enter Color Code</div>
             <input placeholder="#ffffff" maxLength="7" value={selectColor} onChange={handleChange} />
          </div>
+         <div className="help-footer">
+            Need help?<br/> Double click to color!
+         </div>
       </div>
    );
 }

@@ -230,3 +230,16 @@ span.connect-button a:hover{
 .toast .close-but:hover {
    cursor: pointer;
 }
+
+
+.help-footer {
+   display: flex;
+   align-items: center;
+   position: absolute;
+   bottom: 20px;
+   left: 20px;
+   background-color: #18181b;
+   border-radius: 5px;
+   padding: 10px;
+   box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.3);
+}
