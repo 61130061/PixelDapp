@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/PixelDapp/static/css/main.2aa1b34f.css",
-    "main.js": "/PixelDapp/static/js/main.2aa0d2df.js",
+    "main.css": "/PixelDapp/static/css/main.6732e90e.css",
+    "main.js": "/PixelDapp/static/js/main.546434a7.js",
     "static/js/787.e4a831c1.chunk.js": "/PixelDapp/static/js/787.e4a831c1.chunk.js",
     "static/media/warning.png": "/PixelDapp/static/media/warning.30cb642afcc37a47dd31.png",
     "index.html": "/PixelDapp/index.html",
-    "main.2aa1b34f.css.map": "/PixelDapp/static/css/main.2aa1b34f.css.map",
-    "main.2aa0d2df.js.map": "/PixelDapp/static/js/main.2aa0d2df.js.map",
+    "main.6732e90e.css.map": "/PixelDapp/static/css/main.6732e90e.css.map",
+    "main.546434a7.js.map": "/PixelDapp/static/js/main.546434a7.js.map",
     "787.e4a831c1.chunk.js.map": "/PixelDapp/static/js/787.e4a831c1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2aa1b34f.css",
-    "static/js/main.2aa0d2df.js"
+    "static/css/main.6732e90e.css",
+    "static/js/main.546434a7.js"
   ]
 }
